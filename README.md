@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://movie-hub-tawny-eta.vercel.app" target="_blank">
-      <img src="public/readme/img.png" alt="Project Banner">
+      <img src="public/readme/image.png" alt="Project Banner">
     </a>
   <br />
   
