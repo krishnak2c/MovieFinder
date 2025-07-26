@@ -50,7 +50,7 @@ Make sure you have the following installed on your machine:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [pnpm](https://www.npmjs.com/package/pnpm) (Performant Node Package Manager)
 
 **Cloning the Repository**
 
@@ -75,10 +75,6 @@ Create a new file named `.env.local` in the root of your project and add the fol
 ```env
 VITE_TMDB_API_KEY=
 
-<!-- Appwrite code need to be fixed currently no need 👉
-V  VITE_APPWRITE_PROJECT_ID=
-VITE_APPWRITE_DATABASE_ID=
-VITE_APPWRITE_COLLECTION_ID= -->
 ```
 
 Replace the placeholder values with your actual **[TheMovieDatabase API](https://developer.themoviedb.org/reference/intro/getting-started) credentials.
